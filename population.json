@@ -1,0 +1,98 @@
+[
+    {
+        "females": 384187,
+        "country": 1,
+        "age": 18,
+        "males": 407124,
+        "year": 2017,
+        "total": 791312
+    },
+    {
+        "females": 12253515,
+        "country": 2,
+        "age": 18,
+        "males": 12599691,
+        "year": 2017,
+        "total": 24853148
+    },
+    {
+        "females": 24128,
+        "country": 3,
+        "age": 18,
+        "males": 25266,
+        "year": 2017,
+        "total": 49397
+    },
+    {
+        "females": 283821,
+        "country": 4,
+        "age": 18,
+        "males": 295140,
+        "year": 2017,
+        "total": 578961
+    },
+    {
+        "females": 276880,
+        "country": 5,
+        "age": 18,
+        "males": 276472,
+        "year": 2017,
+        "total": 553353
+    },
+    {
+        "females": 777,
+        "country": 6,
+        "age": 18,
+        "males": 803,
+        "year": 2017,
+        "total": 1580
+    },
+    {
+        "females": 764956,
+        "country": 7,
+        "age": 18,
+        "males": 802948,
+        "year": 2017,
+        "total": 1567904
+    },
+    {
+        "females": 338282,
+        "country": 8,
+        "age": 18,
+        "males": 349238,
+        "year": 2017,
+        "total": 687522
+    },
+    {
+        "females": 15999,
+        "country": 9,
+        "age": 18,
+        "males": 16456,
+        "year": 2017,
+        "total": 32487
+    },
+    {
+        "females": 750,
+        "country": 10,
+        "age": 18,
+        "males": 756,
+        "year": 2017,
+        "total": 1504
+    },
+    {
+        "females": 32919696,
+        "country": 11,
+        "age": 18,
+        "males": 36009309,
+        "year": 2017,
+        "total": 68929229
+    },
+    {
+        "females": 145412,
+        "country": 12,
+        "age": 18,
+        "males": 154696,
+        "year": 2017,
+        "total": 300109
+    }
+]
